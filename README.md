@@ -1,4 +1,7 @@
 # CDC R class
-## Git and GitHub workshop, May 8 2025 in Roybal Campus, CDC
+## Git and GitHub workshop
 
 This workshop will provide some basic Git knowledge to CDC researchers. 
+
+Instructor:
+Name: Fuhan Yang
